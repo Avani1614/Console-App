@@ -1,0 +1,14 @@
+C:\Users\jhan2\OneDrive\Documents\Console App\MyConsoleApp\bin\Debug\net8.0\MyConsoleApp.exe
+C:\Users\jhan2\OneDrive\Documents\Console App\MyConsoleApp\bin\Debug\net8.0\MyConsoleApp.deps.json
+C:\Users\jhan2\OneDrive\Documents\Console App\MyConsoleApp\bin\Debug\net8.0\MyConsoleApp.runtimeconfig.json
+C:\Users\jhan2\OneDrive\Documents\Console App\MyConsoleApp\bin\Debug\net8.0\MyConsoleApp.dll
+C:\Users\jhan2\OneDrive\Documents\Console App\MyConsoleApp\bin\Debug\net8.0\MyConsoleApp.pdb
+C:\Users\jhan2\OneDrive\Documents\Console App\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhan2\OneDrive\Documents\Console App\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.AssemblyInfoInputs.cache
+C:\Users\jhan2\OneDrive\Documents\Console App\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.AssemblyInfo.cs
+C:\Users\jhan2\OneDrive\Documents\Console App\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\jhan2\OneDrive\Documents\Console App\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.dll
+C:\Users\jhan2\OneDrive\Documents\Console App\MyConsoleApp\obj\Debug\net8.0\refint\MyConsoleApp.dll
+C:\Users\jhan2\OneDrive\Documents\Console App\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.pdb
+C:\Users\jhan2\OneDrive\Documents\Console App\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.genruntimeconfig.cache
+C:\Users\jhan2\OneDrive\Documents\Console App\MyConsoleApp\obj\Debug\net8.0\ref\MyConsoleApp.dll
